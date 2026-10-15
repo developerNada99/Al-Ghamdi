@@ -21,7 +21,7 @@ export default function Footer() {
         <div className="space-y-4">
           <div className="inline-block rounded-xl bg-white p-2">
             <Image
-              src="/logo.png"
+              src="/logoo.png"
               alt="الغامدي العقاري"
               width={160}
               height={64}
